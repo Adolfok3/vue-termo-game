@@ -1,5 +1,7 @@
 # vue-termo-game
 
+Uma réplica do jogo Termo ou Letreco feito em Vue 3 utilizando apenas HTML, CSS e eventos.
+
 ## Project setup
 ```
 yarn install
