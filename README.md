@@ -1,4 +1,4 @@
-# vue-term-game
+# vue-termo-game
 
 ## Project setup
 ```

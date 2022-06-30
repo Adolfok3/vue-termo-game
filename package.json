@@ -1,5 +1,5 @@
 {
-  "name": "vue-term-game",
+  "name": "vue-termo-game",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,6 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "mitt": "^3.0.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
