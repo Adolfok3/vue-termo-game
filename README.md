@@ -2,7 +2,7 @@
 
 Uma réplica do jogo Termo ou Letreco feito em Vue 3 utilizando apenas HTML, CSS e eventos.
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-067a7d0da4.gif">
+<img src="https://i.imgur.com/tbTMjdK.gif">
 
 ## Project setup
 ```
