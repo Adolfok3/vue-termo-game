@@ -2,6 +2,8 @@
 
 Uma réplica do jogo Termo ou Letreco feito em Vue 3 utilizando apenas HTML, CSS e eventos.
 
+Demo: https://vue-termo-game.netlify.app/
+
 <img src="https://i.imgur.com/tbTMjdK.gif">
 
 ## Project setup
